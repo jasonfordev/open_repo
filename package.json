@@ -1,0 +1,25 @@
+{
+  "name": "git_work",
+  "version": "1.0.0",
+  "description": "node first",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonfordev/open_repo.git"
+  },
+  "keywords": [
+    "open_repo"
+  ],
+  "author": "jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonfordev/open_repo/issues"
+  },
+  "homepage": "https://github.com/jasonfordev/open_repo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
